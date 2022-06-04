@@ -1,4 +1,5 @@
 # ICO (Initial Coin Offering)
+I built this as part of my blockchain course at learnWeb#DAO.
 
 Now its time for you to launch a token for `Crypto Devs`. Let's call the token Crypto Dev Token.
 
